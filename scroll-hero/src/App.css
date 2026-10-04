@@ -1,0 +1,31 @@
+.after-section {
+  min-height: 100vh;
+
+  background: #111;
+
+  color: white;
+
+  display: flex;
+
+  flex-direction: column;
+
+  justify-content: center;
+
+  align-items: center;
+
+  text-align: center;
+
+  padding: 40px;
+}
+
+.after-section h2 {
+  font-size: 60px;
+
+  margin-bottom: 20px;
+}
+
+.after-section p {
+  color: #aaa;
+
+  font-size: 18px;
+}
